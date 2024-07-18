@@ -1,12 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Dashboard</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/jpg">
 </head>
+
 <body>
-    
+    <section id="sidebar">
+        <button for="menu">
+            <img src="assets/menu-icon.svg" alt="menu">
+        </button>
+        <div>
+            <div class="logo">
+                <img id="mobile" src="assets/favicon.svg" alt="logo">
+                <h2>Logoipsm</h2>
+            </div>
+            <nav>
+                <div class="active">
+                    <img src="assets/dashboard-icon.svg" alt="dashboard">
+                    <span>Overview</span>
+                </div>
+                <div>
+                    <img src="assets/graph-icon.svg" alt="dashboard">
+                    <span>Chart</span>
+                </div>
+                <div>
+                    <img src="assets/transaction-icon.svg" alt="dashboard">
+                    <span>Transaction</span>
+                </div>
+                <div>
+                    <img src="assets/wallet-icon.svg" alt="dashboard">
+                    <span>Wallet</span>
+                </div>
+                <div>
+                    <img src="assets/message-text-icon.svg" alt="dashboard">
+                    <span>News</span>
+                </div>
+                <div>
+                    <img src="assets/sms-icon.svg" alt="dashboard">
+                    <span>Mails</span>
+                </div>
+            </nav>
+        </div>
+    </section>
+
+    <section id="content">
+        <header>
+            <h1>Dashboard</h1>
+
+            <div>
+                <input type="text" id="search" placeholder="Search...">
+                <label for="search"><img src="assets/search-icon.svg" alt="search"></label>
+            </div>
+
+            <div>
+                <div>
+                    <img src="assets/notification-icon.svg" alt="notifications">
+                </div>
+                <div>
+                    <div>
+                        <img src="assets/user-graduate.svg" alt="user">
+                    </div>
+                    <h2>Mohammad Hajeer</h2>
+                    <img src="assets/arrow-down-icon.svg" alt="">
+                </div>
+            </div>
+        </header>
+       
+    </section>
 </body>
+
 </html>
