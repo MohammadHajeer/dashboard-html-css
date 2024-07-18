@@ -6,7 +6,7 @@ Dashboard Challenge
 
 **Name:** Mohammad Hajeer  
 **Portfolio:** [click here](https://mohammadhajeer.github.io/Portfolio/)  
-**Live Demo:** [click here](https://mohammadhajeer.github.io/dashboard-htm-css/)
+**Live Demo:** [click here](https://mohammadhajeer.github.io/dashboard-html-css/)
 
 ## Time
 
