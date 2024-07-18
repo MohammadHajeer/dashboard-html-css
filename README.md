@@ -5,8 +5,8 @@ Dashboard Challenge
 ## Contact
 
 **Name:** Mohammad Hajeer  
-**Portfolio:** [click here](https://mohammadhajeer.github.io/Portfolio/)  
-**Live Demo:** [click here](https://mohammadhajeer.github.io/dashboard-htm-css/)
+**Portfolio:** <a href="https://mohammadhajeer.github.io/Portfolio/" target="_blank">Portfolio</a>  
+**GitHub:** <a href="https://mohammadhajeer.github.io/dashboard-htm-css/" target="_blank">GitHub</a>
 
 ## Time
 
